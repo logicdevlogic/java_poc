@@ -1,8 +1,8 @@
-package rmi;
+
 
 import com.alibaba.fastjson.JSON;
 
-public class T {
+public class Trigger {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
